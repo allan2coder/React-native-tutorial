@@ -1,6 +1,7 @@
-# React-native-tutorial
+# React-native-tutorial（待续）
 
-- Support: Android 4.1 (API 16)+   IOS(8.0+)
+
+Support: Android 4.1 (API 16)+   IOS(8.0+)
 
 ### How to use
 Clone the repo and install the dependencies, and then npm start.
